@@ -11,6 +11,6 @@ As of now ,it dosen't have any kind of data validation just very basic J.S valid
 
 You land on index.php page where first you register your self on the site as an admin or user. Then you log in with your phone no and date of birth site checks for data on validation logs you in.
 
-On successfull login,if you are a admin you are shown list of all current users . Also when ever a new user registers admin gets a notification you need not remove it it itself destroys it.
+On successfull login,if you are a admin you are shown list of all current users . Also when ever a new user registers admin gets a notification,just need to wait for 10 seconds also ,you need not remove it, it  destroys itself within about 3second.
 As of now it can notify only 12 concurrent new users others might get ignored or might work as expected.
 Changes would be made soon .
