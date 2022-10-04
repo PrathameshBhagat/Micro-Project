@@ -1,3 +1,4 @@
+'''
 on: push
 name: 🚀 Deploy website on push
 jobs:
@@ -13,4 +14,4 @@ jobs:
       with:
         server: files.000webhost.com
         username: prathameshbhagat
-        password: ${{ secrets.PASS }}
+        password: ${{ secrets.PASS }}'''
