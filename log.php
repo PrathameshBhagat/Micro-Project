@@ -49,8 +49,12 @@ $user=mysqli_query($conn,$insert2);
 		if(mysqli_num_rows($ins1)>0)
 		{
 		$row=mysqli_fetch_assoc($ins1);/* check for admin and redirect */ 
-		header('Location: logA.php?name='.$row['Name'],TRUE,301);		
-	
+		try{/*
+		    header('Location:logA.php?name='.$row['Name']);		
+		*/
+		    echo "<script>window.location.href='logA.php?name=".$row['Name']."';</script>";
+		}
+		catch(Exception $e){echo "<script>window.location.href='logA.php?name=".$row['Name']."';</script>";}
 		}
 		
 	}
