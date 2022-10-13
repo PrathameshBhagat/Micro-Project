@@ -14,3 +14,6 @@ You land on index.php page where first you register your self on the site as an 
 On successfull login,if you are a admin you are shown list of all current users . Also when ever a new user "registers" admin gets a notification,just need to wait for 10 seconds also ,you need not remove it, it  destroys itself within about 3second.
 As of now it can notify only 12 concurrent new users others might get ignored or might work as expected.
 Update would be added soon .
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Note : LCam and m are not the part of this project they are for other uses.\n Do not use/open them .
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
