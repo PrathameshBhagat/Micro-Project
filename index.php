@@ -10,7 +10,7 @@
    	<td>
  	<h1 style="font-size:7vw">
        	      Welcome to <br />
-                     Our Drones Shop
+                     Our Drones  Shop
  </h1>		
 	<a href="loginpage.php" class=" custom_orange-btn mr-3">
             Login 
