@@ -15,5 +15,5 @@ On successfull login,if you are a admin you are shown list of all current users 
 As of now it can notify only 12 concurrent new users others might get ignored or might work as expected.
 Update would be added soon .
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Note : LCam and m are not the part of this project they are for other uses.\n Do not use/open them .
+Note : The folders LCam and m are not the part of this project they are for other uses.\n Do not use/open them .
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
