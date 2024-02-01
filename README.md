@@ -1,6 +1,6 @@
 
 # Note :
-The folders LCam and m are not the part of this project they are for other uses. LCam is for a vedio calling website available at :   https://prathameshbhagat.000webhostapp.com/LCam  
+The folders LCam and m are not the part of this project they are for other uses. LCam is for a video calling website available at :   https://prathameshbhagat.000webhostapp.com/LCam  
   
 Just share the link to more than one device and pass any red warning Chrome or Google gives. 
 # Project
